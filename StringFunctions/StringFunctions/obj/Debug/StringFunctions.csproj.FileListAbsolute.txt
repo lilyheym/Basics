@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\StringFunctions\StringFunctions\bin\Debug\StringFunctions.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\StringFunctions\StringFunctions\obj\Debug\StringFunctions.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\StringFunctions\StringFunctions\obj\Debug\StringFunctions.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csproj.AssemblyReference.cache

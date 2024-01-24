@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\iterationTutoriak\iterationTutoriak\bin\Debug\iterationTutoriak.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\iterationTutoriak\iterationTutoriak\bin\Debug\iterationTutoriak.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\iterationTutoriak\iterationTutoriak\bin\Debug\iterationTutoriak.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\iterationTutoriak\iterationTutoriak\obj\Debug\iterationTutoriak.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\iterationTutoriak\iterationTutoriak\obj\Debug\iterationTutoriak.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\iterationTutoriak\iterationTutoriak\obj\Debug\iterationTutoriak.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\iterationTutoriak\iterationTutoriak\obj\Debug\iterationTutoriak.pdb

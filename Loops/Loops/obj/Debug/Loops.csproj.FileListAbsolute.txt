@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\Loops\Loops\obj\Debug\Loops.pdb

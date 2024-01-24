@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

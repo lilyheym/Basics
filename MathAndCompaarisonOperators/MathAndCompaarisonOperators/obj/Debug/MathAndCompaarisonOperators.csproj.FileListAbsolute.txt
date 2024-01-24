@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\MathAndCompaarisonOperators\MathAndCompaarisonOperators\bin\Debug\MathAndCompaarisonOperators.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\MathAndCompaarisonOperators\MathAndCompaarisonOperators\bin\Debug\MathAndCompaarisonOperators.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\MathAndCompaarisonOperators\MathAndCompaarisonOperators\bin\Debug\MathAndCompaarisonOperators.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\MathAndCompaarisonOperators\MathAndCompaarisonOperators\obj\Debug\MathAndCompaarisonOperators.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\MathAndCompaarisonOperators\MathAndCompaarisonOperators\obj\Debug\MathAndCompaarisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\MathAndCompaarisonOperators\MathAndCompaarisonOperators\obj\Debug\MathAndCompaarisonOperators.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\MathAndCompaarisonOperators\MathAndCompaarisonOperators\obj\Debug\MathAndCompaarisonOperators.pdb
