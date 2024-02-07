@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,38 +11,31 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            
 
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>()
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. Can you tell me your name?");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("How much money did you bring in today?");
+            int bonk = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello {0}, would you like to join an game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "yeh")
             {
-                "Odo",
-                "Kira",
-                "Rom"
-            };
-            game.ListPLayers();
-            Console.ReadLine();
-
-            //Deck deck = new Deck();
-            //deck.Shuffle(3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
+                Player player = new Player(playerName, bonk);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while(player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now!");
+            Console.Read();
         }
 
-       
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }
  
