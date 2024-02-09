@@ -15,7 +15,7 @@ namespace TwentyOne
         {
             const string casinoName = "Grand Hotel and Casino";
 
-            Guid identifier = Guid.NewGuid();
+           
 
             Console.WriteLine("Welcome to the {0}. Can you tell me your name?", casinoName);
             string playerName = Console.ReadLine();
